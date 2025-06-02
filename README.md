@@ -5,8 +5,15 @@
 <p id="description">An application for create and organizing notes. Notes should be written in a Markdown format and have proper tags to find them later.</p>
 
 <h2>Screenshots</h2>
-  
-  
+<h3>Homepage</h3>
+![Image](https://github.com/user-attachments/assets/604fb086-d7d1-44b1-b99e-a3052ac43b83)
+<h3>View Note</h3>
+![Image](https://github.com/user-attachments/assets/7d2e237b-f315-4925-b17a-239aca1ca447) 
+<h3>Edit Note</h3>
+![Image](https://github.com/user-attachments/assets/09da2f95-d25c-4384-8bb7-4e7d2f59a336)
+<h3>Edit Tags</h3>
+![Image](https://github.com/user-attachments/assets/30bd6b96-0a40-466c-b10e-fdabcb9f06eb)
+
 <h2>💻 Built with</h2>
 
 Technologies used in the project:
