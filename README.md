@@ -6,13 +6,13 @@
 
 <h2>Screenshots</h2>
 <h3>Homepage</h3>
-![Image](https://github.com/user-attachments/assets/604fb086-d7d1-44b1-b99e-a3052ac43b83)
+![Image](https://github.com/user-attachments/assets/b9d28de1-f19c-4750-a77d-f4f67a79efb0)
 <h3>View Note</h3>
-![Image](https://github.com/user-attachments/assets/7d2e237b-f315-4925-b17a-239aca1ca447) 
+![Image](https://github.com/user-attachments/assets/e2399b1c-589e-45ce-b70e-0650de235417) 
 <h3>Edit Note</h3>
-![Image](https://github.com/user-attachments/assets/09da2f95-d25c-4384-8bb7-4e7d2f59a336)
+![Image](https://github.com/user-attachments/assets/e1a694c1-67d2-497c-8688-c618dc0cdb4a)
 <h3>Edit Tags</h3>
-![Image](https://github.com/user-attachments/assets/30bd6b96-0a40-466c-b10e-fdabcb9f06eb)
+![Image](https://github.com/user-attachments/assets/7266e5e2-eb60-43b0-9fb3-4bdd21dcdc4b)
 
 <h2>💻 Built with</h2>
 
